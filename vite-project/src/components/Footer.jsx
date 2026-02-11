@@ -2,7 +2,9 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer id="contact" style={{textAlign: 'center', padding: '40px'}}>
+      <p>© 2026 MyAgency — hello@email.com</p>
+    </footer>
   )
 }
 
